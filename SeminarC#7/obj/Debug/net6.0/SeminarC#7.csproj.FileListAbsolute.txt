@@ -1,0 +1,15 @@
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\bin\Debug\net6.0\SeminarC#7.exe
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\bin\Debug\net6.0\SeminarC#7.deps.json
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\bin\Debug\net6.0\SeminarC#7.runtimeconfig.json
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\bin\Debug\net6.0\SeminarC#7.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\bin\Debug\net6.0\SeminarC#7.pdb
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.csproj.AssemblyReference.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.AssemblyInfoInputs.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.AssemblyInfo.cs
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.csproj.CoreCompileInputs.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\refint\SeminarC#7.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.pdb
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\SeminarC#7.genruntimeconfig.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\SeminarC#7\obj\Debug\net6.0\ref\SeminarC#7.dll
