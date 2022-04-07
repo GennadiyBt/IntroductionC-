@@ -1,0 +1,15 @@
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\bin\Debug\net6.0\PaskaleTriangl.exe
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\bin\Debug\net6.0\PaskaleTriangl.deps.json
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\bin\Debug\net6.0\PaskaleTriangl.runtimeconfig.json
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\bin\Debug\net6.0\PaskaleTriangl.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\bin\Debug\net6.0\PaskaleTriangl.pdb
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.csproj.AssemblyReference.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.AssemblyInfoInputs.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.AssemblyInfo.cs
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.csproj.CoreCompileInputs.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\refint\PaskaleTriangl.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.pdb
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\PaskaleTriangl.genruntimeconfig.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\PaskaleTriangl\obj\Debug\net6.0\ref\PaskaleTriangl.dll
