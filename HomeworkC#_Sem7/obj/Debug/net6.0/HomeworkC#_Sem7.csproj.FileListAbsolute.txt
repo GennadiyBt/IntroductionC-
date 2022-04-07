@@ -1,0 +1,15 @@
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\bin\Debug\net6.0\HomeworkC#_Sem7.exe
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\bin\Debug\net6.0\HomeworkC#_Sem7.deps.json
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\bin\Debug\net6.0\HomeworkC#_Sem7.runtimeconfig.json
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\bin\Debug\net6.0\HomeworkC#_Sem7.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\bin\Debug\net6.0\HomeworkC#_Sem7.pdb
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.csproj.AssemblyReference.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.AssemblyInfoInputs.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.AssemblyInfo.cs
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.csproj.CoreCompileInputs.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\refint\HomeworkC#_Sem7.dll
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.pdb
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\HomeworkC#_Sem7.genruntimeconfig.cache
+C:\Users\kaptu\Desktop\Learning\Практикум\Семинар C#\HomeworkC#_Sem7\obj\Debug\net6.0\ref\HomeworkC#_Sem7.dll
