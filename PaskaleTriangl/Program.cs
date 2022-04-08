@@ -1,22 +1,4 @@
-﻿/*
-for (i = 0; i < n; i++)
-{
-    for (c = 0; c <= (n - i); c++) // создаём после каждой строки n-i отступов от левой стороны консоли, чем ниже строка, тем меньше отступ
-    {
-        Console.Write(" ");
-    }
-    for (c = 0; c <= i; c++)
-    {
-        Console.Write(" "); // создаём пробелы между элементами треугольника
-        Console.Write(factorial(i) / (factorial(c) * factorial(i - c))); //формула вычисления элементов треугольника
-    }
-    Console.WriteLine();
-    Console.WriteLine(); // после каждой строки с числами отступаем две пустые строчки
-}
-Console.ReadLine();
-*/
-
-int[,] CreateTriangl(int size)
+﻿int[,] CreateTriangl(int size)
 {
     int[,] triangle = new int[size, size];
     for (int i = 0; i < size; i++)
@@ -47,13 +29,13 @@ for (int i = 0; i < n; i++)
     for (int j = 0; j <= i; j++)
     {
         Console.Write(" "); // создаём пробелы между элементами треугольника
-        Console.Write(CreateTriangl(n)[i, j]); //формула вычисления элементов треугольника
+        Console.Write(CreateTriangl(n)[i, j]); // вычислениe элементов треугольника
     }
     Console.WriteLine();
     Console.WriteLine(); // после каждой строки с числами отступаем две пустые строчки
 }
 */
-
+/*
 for (int i = 0; i < n; i++)
 {
     for (int j = 0; j <= (n - i); j++) // создаём после каждой строки n-i отступов от левой стороны консоли, чем ниже строка, тем меньше отступ
@@ -70,3 +52,24 @@ for (int i = 0; i < n; i++)
     Console.WriteLine();
     Console.WriteLine(); // после каждой строки с числами отступаем две пустые строчки
 }
+*/
+/*
+void PaskaleTrianglPrint(int[,] array)
+{
+    for (int i = 0; i < array.GetLength(0); i++)
+    {
+        string text = "";
+        for (int j = 0; j < i+1; j++)
+        {
+            
+            text = text + Convert.ToString(array[i,j]) + " ";
+        }
+        int skreenWidthPosition = (Console.WindowWidth - text.Length)/2;
+        Console.SetCursorPosition(skreenWidthPosition, i+4);
+        Console.WriteLine(text);        
+    }
+}
+
+int[,] array = CreateTriangl(n);
+PaskaleTrianglPrint(array);
+*/
